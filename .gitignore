@@ -161,3 +161,8 @@ cython_debug/
 
 # Exclude folder
 test/cropped/
+
+# Exclude files related to objects
+*.jpg
+*.mtl 
+*.obj
